@@ -9,7 +9,7 @@ html, body {
 
 body {
   display: grid;
-  margin-left: 4rem;
+  margin-left: 7%;
   row-gap: 2rem;
   place-items: left;
   overflow: hidden;
