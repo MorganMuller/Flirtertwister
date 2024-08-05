@@ -10,8 +10,9 @@ html, body {
 
 body {
   display: grid;
+  margin-left: 4rem;
   row-gap: 2rem;
-  place-items: center;
+  place-items: left;
   overflow: hidden;
   font-family: "Jost", sans-serif;
 }
@@ -28,8 +29,6 @@ h2 {
   color:#532461;
 }
 .display{
-  max-width: 85%;
-  text-align: center;
   font-size: 120%;
 }
 
@@ -41,7 +40,6 @@ h2 {
   font-size: 140%;
   font-weight: bold;
 }
-
 
 /* main */
 
@@ -74,6 +72,8 @@ h2 {
   line-height: 1;
   text-transform: lowercase;
   color:#532461;
+  width: var(--size);
+  height: var(--size);
 }
 
 .wheel > * {
