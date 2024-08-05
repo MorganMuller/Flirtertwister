@@ -28,6 +28,9 @@ h2 {
   color:#532461;
 }
 
+.display{
+  margin-left: calc(var(--size) / -15);
+}
 
 .wasVet{
   font-size: 110%;
@@ -72,6 +75,7 @@ h2 {
   color:#532461;
   width: var(--size);
   height: var(--size);
+  max-width: 500px;
 }
 
 .wheel > * {
@@ -150,7 +154,7 @@ h2 {
   background: linear-gradient(180deg, rgba(83,36,97,1) 50%, rgb(69, 30, 81) 60%);
   border: none;
   font-family: inherit;
-  font-size: inherit;
+  font-size: 110%;
   line-height: inherit;
   text-transform: inherit;
   padding: 0.9rem 2rem 1rem;
