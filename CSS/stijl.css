@@ -1,5 +1,4 @@
 
-
 * {
     box-sizing: border-box;
   }
@@ -28,16 +27,14 @@ h2 {
   display: inline;
   color:#532461;
 }
-.display{
-  font-size: 120%;
-}
+
 
 .wasVet{
-  font-size: 120%;
+  font-size: 110%;
 }
 
 .vet{
-  font-size: 140%;
+  font-size: 115%;
   font-weight: bold;
 }
 
@@ -65,12 +62,13 @@ h2 {
   grid-gap: calc(var(--size) / 20);
   align-items: center;
   grid-template-areas:
+    "display"
     "spinner"
     "trigger";
  
   font-size: calc(var(--size) / 22);
   line-height: 1;
-  text-transform: lowercase;
+  
   color:#532461;
   width: var(--size);
   height: var(--size);
@@ -78,6 +76,9 @@ h2 {
 
 .wheel > * {
   grid-area: spinner;
+}
+.display{
+  grid-area: display;
 }
 
 .wheel .btn-spin, .btn-verder{
@@ -100,6 +101,7 @@ h2 {
 
 .spinner {
   position: relative;
+  text-transform: lowercase;
   display: grid;
   align-items: center;
   grid-template-areas: "spinner";
