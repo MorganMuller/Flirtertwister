@@ -139,7 +139,7 @@ let volwassenenWat = [
       color: "#A894C5",
     },
     {
-      text: "op sollicitatiegesprek",
+      text: "bij je sollicitatie",
       color: "#A6B2D8",
     },
     {
