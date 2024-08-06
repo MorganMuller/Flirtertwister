@@ -43,8 +43,11 @@ body {
 /* main */
 
 .middleAfbeelding{
-  
   background-image: url("../JSON/middenRad.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: auto;
+  background-position: center;
   width: 25%;
   height: 25%;
   justify-self: center;
