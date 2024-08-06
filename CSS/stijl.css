@@ -43,9 +43,10 @@ body {
 /* main */
 
 .middleAfbeelding{
-  background-color: rgb(255, 255, 255);
-  width: 23%;
-  height: 23%;
+  
+  background-image: url("../JSON/middenRad.png");
+  width: 25%;
+  height: 25%;
   justify-self: center;
   border-radius: 50%;
 }
