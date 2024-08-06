@@ -46,10 +46,10 @@ body {
   background-image: url("../JSON/middenRad.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: auto;
+  background-size: 100%;
   background-position: center;
-  width: 25%;
-  height: 25%;
+  width: 27%;
+  height: 27%;
   justify-self: center;
   border-radius: 50%;
 }
