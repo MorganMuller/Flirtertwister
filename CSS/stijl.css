@@ -14,7 +14,7 @@ body {
   row-gap: 2rem;
   place-items: left;
   overflow: hidden;
-  font-family: "Jost", sans-serif;
+  font-family: verdana-pro, sans-serif;
 }
 
 
@@ -97,6 +97,7 @@ body {
    justify-self: center;
    font-weight: bold;
    text-align: center;
+   font-family: 'SignPainter', sans-serif;
    font-size: 170%;
    color: #532461;
   }
