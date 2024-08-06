@@ -55,14 +55,13 @@ body {
 }
 
 .logo{
-  position: absolute;
   background-image: url("../JSON/logo.png");
   background-attachment: fixed;
   background-size: contain;
   background-position: center center;
-  left: calc(var(--size) / +1000);
-  width: 10rem;
-  height: 10rem;
+  width: 5rem;
+  position: relative;
+  left: calc(var(--size) / +150);
 }
 
 .wheel {
