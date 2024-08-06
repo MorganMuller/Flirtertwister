@@ -62,6 +62,7 @@ body {
   width: 5rem;
   position: relative;
   left: calc(var(--size) / +150);
+  z-index: 2;
 }
 
 .wheel {
