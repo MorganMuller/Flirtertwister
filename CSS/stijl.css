@@ -55,8 +55,9 @@ body {
 }
 
 .logo{
-  background-image: url("../JSON/logo.png");
+ /* background-image: url("../JSON/logo.png");*/
   background-attachment: fixed;
+  background-color:red;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: top center;
