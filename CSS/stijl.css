@@ -55,17 +55,15 @@ body {
 }
 
 .logo{
- /* background-image: url("../JSON/logo.png");*/
-  background-attachment: fixed;
-  background-color:red;
+  background-image: url("../JSON/logo.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: top center;
-  width: 15rem;
-  height: 15rem;
+  width: 25%;
+  height: 30%;
   position: relative;
-  left: 75%;
-  top: -10rem;
+  left: 74%;
+  top: -36%;
   z-index: 2;
 }
 
