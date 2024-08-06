@@ -64,7 +64,8 @@ body {
   width: 15rem;
   height: 15rem;
   position: relative;
-  left: 90%;
+  left: 75%;
+  top: -10rem;
   z-index: 2;
 }
 
