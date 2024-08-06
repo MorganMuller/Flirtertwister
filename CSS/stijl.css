@@ -28,6 +28,7 @@ body {
 .display{
   margin-left: calc(var(--size) / -15);
   font-size: 18px;
+  line-height: 20px;
 }
 
 .wasVet{
