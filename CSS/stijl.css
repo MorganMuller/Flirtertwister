@@ -59,9 +59,10 @@ body {
   background-image: url("../JSON/logo.png");
   background-attachment: fixed;
   background-size: contain;
-  left: calc(var(--size) / +100);
-  width: calc(var(--size) / 50);
-  height: calc(var(--size) / 50);
+  background-position: center center;
+  left: calc(var(--size) / +1000);
+  width: 10rem;
+  height: 10rem;
 }
 
 .wheel {
