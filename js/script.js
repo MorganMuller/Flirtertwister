@@ -126,7 +126,7 @@ const selectPrize = () => {
     volgende.innerHTML = "Opnieuw spelen?";
     gekozenWieWaarde.classList.add("finalValtOp");
     gekozenWatWaarde.classList.add("finalValtOp");
-    gekozenWatWaarde.classList.add("finalValtOp");
+    gekozenWaarWaarde.classList.add("finalValtOp");
    }
    trigger.classList.add("invisible");
 };
