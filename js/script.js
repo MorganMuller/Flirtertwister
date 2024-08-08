@@ -124,8 +124,9 @@ const selectPrize = () => {
    } else if(WieWatOfWaar===3){
     gekozenWaarWaarde.innerHTML= prizeNodes[selected].innerHTML.trim() +".";
     volgende.innerHTML = "Opnieuw spelen?";
-    gekozenWieWaarde.classList.add("vet");
-    gekozenWatWaarde.classList.add("vet");
+    gekozenWieWaarde.classList.add("finalValtOp");
+    gekozenWatWaarde.classList.add("finalValtOp");
+    gekozenWatWaarde.classList.add("finalValtOp");
    }
    trigger.classList.add("invisible");
 };
