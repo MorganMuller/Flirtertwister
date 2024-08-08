@@ -85,6 +85,7 @@ body {
   grid-gap: calc(var(--size) / 20);
   align-items: center;
   grid-template-areas:
+    "question"
     "display"
     "spinner"
     "trigger";
@@ -100,6 +101,10 @@ body {
 
 .wheel > * {
   grid-area: spinner;
+}
+
+.question{
+  grid-area: question;
 }
 .display{
   grid-area: display;
