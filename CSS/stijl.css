@@ -39,7 +39,11 @@ body {
   font-size: 18px;
   font-weight: bold;
 }
-
+.finalValtOp{
+  font-size: 20px;
+  font-weight: bold;
+  color: #0f9c98;
+}
 /* main */
 
 .middleAfbeelding{
