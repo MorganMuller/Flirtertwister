@@ -125,7 +125,7 @@ const selectPrize = () => {
     gekozenWatWaarde.innerHTML= prizeNodes[selected].innerHTML;
    } else if(WieWatOfWaar===3){
     gekozenWaarWaarde.innerHTML= prizeNodes[selected].innerHTML.trim() +".";
-    volgende.innerHTML = "&#x27F3; Opnieuw spelen?";
+    volgende.innerHTML = "Opnieuw spelen?";
     gekozenWieWaarde.classList.add("finalValtOp");
     gekozenWatWaarde.classList.add("finalValtOp");
     gekozenWaarWaarde.classList.add("finalValtOp");
