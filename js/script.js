@@ -19,6 +19,9 @@ let WieWatOfWaar = 1;
 let gekozenWieWaarde=document.querySelector("#displayWie"); 
 let gekozenWatWaarde =document.querySelector("#displayWat");
 let gekozenWaarWaarde =document.querySelector("#displayWaar");
+let wieVraag =document.querySelector("#wieVraag"); 
+let watVraag =document.querySelector("#watVraag");
+let waarVraag =document.querySelector("#waarVraag");
 
 console.log(WieWatOfWaar);
 let valuesWheel = volwassenenWie;
@@ -29,20 +32,19 @@ const prizeOffset = Math.floor(180 / valuesWheel.length);
 const changeValues = () => {
 if(WieWatOfWaar===1){
   valuesWheel = volwassenenWie;
-  selectedDisplay.innerHTML= "Wie?"
+  selectedDisplay.innerHTML= "Wie?";
   gekozenWieWaarde.classList.add("vet");
+  wieVraag.classList.add("vet");
  }else if(WieWatOfWaar===2){
   valuesWheel = volwassenenWat;
-  selectedDisplay.innerHTML= "Wat?"
-  gekozenWieWaarde.classList.remove("vet");
-  gekozenWieWaarde.classList.add("wasVet");
-  gekozenWatWaarde.classList.add("vet");
+  selectedDisplay.innerHTML= "Wat?";
+  wieVraag.classList.remove("vet");
+  watVraag.classList.add("vet");
  }else if(WieWatOfWaar===3){
   valuesWheel = volwassenenWaar;
-  selectedDisplay.innerHTML= "Waar?"
-  gekozenWatWaarde.classList.remove("vet");
-  gekozenWatWaarde.classList.add("wasVet");
-  gekozenWaarWaarde.classList.add("vet");
+  selectedDisplay.innerHTML= "Waar?";
+  watVraag.classList.remove("vet");
+  waarVraag.classList.add("vet");
  }
 setupWheel()
 };
