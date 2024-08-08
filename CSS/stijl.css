@@ -10,7 +10,7 @@ html, body {
 
 body {
   display: grid;
-  margin-left: 7%;
+  margin-left: 5.5%;
   row-gap: 2rem;
   place-items: left;
   overflow: hidden;
