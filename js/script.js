@@ -46,7 +46,7 @@ if(WieWatOfWaar===1){
   watVraag.classList.remove("vet");
   waarVraag.classList.add("vet");
  }
-setupWheel()
+setupWheel();
 };
 
 
@@ -129,6 +129,7 @@ const selectPrize = () => {
     gekozenWieWaarde.classList.add("finalValtOp");
     gekozenWatWaarde.classList.add("finalValtOp");
     gekozenWaarWaarde.classList.add("finalValtOp");
+    waarVraag.classList.remove("vet");
    }
    trigger.classList.add("invisible");
 };
