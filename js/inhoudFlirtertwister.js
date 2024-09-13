@@ -60,7 +60,7 @@ let volwassenenWat = [
       color: "#F4C7C4",
     },
     { 
-      text: "legt hand op je billen",
+      text: "raakt je billen aan",
       color: "#F3CDB0",
     },
     { 
@@ -88,7 +88,7 @@ let volwassenenWat = [
       color: "#F3CDB0",
     },
     {
-      text: "geeft je een knipoog",
+      text: "geeft je een lange knuffel",
       color: "#F4C7C4",
     },
     {
