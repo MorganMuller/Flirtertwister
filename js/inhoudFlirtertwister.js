@@ -5,27 +5,27 @@
 
 let volwassenenWie = [
     {
+      text: "Je beste vriend(in)",
+      color: "#9CCFB0",
+    },
+    { 
+      text: "Je trainer",
+      color: "#B5DFD1",
+    },
+    { 
       text: "Je baas",
       color: "#9CCFB0",
     },
-    { 
-      text: "Je vriend",
-      color: "#B5DFD1",
-    },
-    { 
-      text: "Je date",
-      color: "#9CCFB0",
-    },
     {
-      text: "Je sekspartner",
+      text: "Een knappe onbekende",
       color: "#B5DFD1",
-    },
-    {
-      text: "Je verloofde",
-      color: "#9CCFB0",
     },
     {
       text: "Je tinder match",
+      color: "#9CCFB0",
+    },
+    {
+      text: "Een groep onbekenden",
       color: "#B5DFD1",
     },
     {
@@ -33,58 +33,58 @@ let volwassenenWie = [
       color: "#9CCFB0",
     },
     {
-      text: "Een buur",
+      text: "Een crush",
       color: "#B5DFD1",
     },
     {
-      text: "Je ex",
+      text: "Je lief",
       color: "#9CCFB0",
     },
     {
-      text: "Je collega",
+      text: "Een collega",
       color: "#B5DFD1",
     },
     {
-      text: "Je partner",
+      text: "Je mogelijke baas",
       color: "#9CCFB0",
     },
     {
-      text: "Je bestie",
+      text: "Een vriend van een vriend",
       color: "#B5DFD1",
     }
   ];
 
 let volwassenenWat = [
     {
-      text: "kust je",
+      text: "probeert je te kussen",
       color: "#F4C7C4",
     },
     { 
-      text: "raakt je gat aan",
+      text: "legt hand op je billen",
       color: "#F3CDB0",
     },
     { 
-      text: "ruikt aan je haar",
+      text: "fluit je na",
       color: "#F4C7C4",
     },
     {
-      text: "vraagt je nummer",
+      text: "vraagt je vriendelijk uit",
       color: "#F3CDB0",
     },
     {
-      text: "praat over wilde seks",
+      text: "praat over hun seksleven",
       color: "#F4C7C4",
     },
     {
-      text: "geeft je een knuffel",
+      text: "vraagt naar je relatiestatus",
       color: "#F3CDB0",
     },
     {
-      text: "stuurt je een naaktfoto",
+      text: "stuurt je een sexy foto",
       color: "#F4C7C4",
     },
     {
-      text: "flirt met jou",
+      text: "Complimenteert je billen",
       color: "#F3CDB0",
     },
     {
@@ -92,7 +92,7 @@ let volwassenenWat = [
       color: "#F4C7C4",
     },
     {
-      text: "noemt je sexy",
+      text: "Sluit een bericht af met xx",
       color: "#F3CDB0",
     },
     {
@@ -100,14 +100,14 @@ let volwassenenWat = [
       color: "#F4C7C4",
     },
     {
-      text: "vraagt je uit",
+      text: "complimenteert je outfit",
       color: "#F3CDB0",
     }
   ];
 
   let volwassenenWaar = [
     {
-      text: "op je werk",
+      text: "op etentje na het werk",
       color: "#A6B2D8",
     },
     { 
@@ -115,43 +115,43 @@ let volwassenenWat = [
       color: "#A894C5",
     },
     { 
+      text: "op een festival",
+      color: "#A6B2D8",
+    },
+    {
+      text: "op een drukke plaats",
+      color: "#A894C5",
+    },
+    {
+      text: "in een park bij het joggen",
+      color: "#A6B2D8",
+    },
+    {
+      text: "in een vergadering",
+      color: "#A894C5",
+    },
+    {
+      text: "op de bus",
+      color: "#A6B2D8",
+    },
+    {
+      text: "op straat met vrienden",
+      color: "#A894C5",
+    },
+    {
+      text: "op stap laat 's avonds",
+      color: "#A6B2D8",
+    },
+    {
       text: "op een feestje",
-      color: "#A6B2D8",
-    },
-    {
-      text: "bij een etentje",
       color: "#A894C5",
     },
     {
-      text: "in een park",
+      text: "tijdens een lange autorit",
       color: "#A6B2D8",
     },
     {
-      text: "in je woonkamer",
-      color: "#A894C5",
-    },
-    {
-      text: "op vakantie",
-      color: "#A6B2D8",
-    },
-    {
-      text: "in het zwembad",
-      color: "#A894C5",
-    },
-    {
-      text: "bij je sollicitatie",
-      color: "#A6B2D8",
-    },
-    {
-      text: "in de auto",
-      color: "#A894C5",
-    },
-    {
-      text: "op school",
-      color: "#A6B2D8",
-    },
-    {
-      text: "op toilet",
+      text: "alleen in de lift",
       color: "#A894C5",
     }
   ];
