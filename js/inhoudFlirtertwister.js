@@ -49,7 +49,7 @@ let volwassenenWie = [
       color: "#9CCFB0",
     },
     {
-      text: "Een vriend van een vriend",
+      text: "De vriend van een vriend",
       color: "#B5DFD1",
     }
   ];
