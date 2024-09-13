@@ -72,7 +72,7 @@ let volwassenenWat = [
       color: "#F3CDB0",
     },
     {
-      text: "praat over hun seksleven",
+      text: "praat over hun kinks",
       color: "#F4C7C4",
     },
     {
@@ -96,7 +96,7 @@ let volwassenenWat = [
       color: "#F3CDB0",
     },
     {
-      text: "geeft je een cadeau",
+      text: "nodigt je uit eten",
       color: "#F4C7C4",
     },
     {
