@@ -115,11 +115,11 @@ let volwassenenWat = [
       color: "#A894C5",
     },
     { 
-      text: "op een festival",
+      text: "op een festival camping",
       color: "#A6B2D8",
     },
     {
-      text: "op een drukke plaats",
+      text: "in een drukke winkel",
       color: "#A894C5",
     },
     {
@@ -131,7 +131,7 @@ let volwassenenWat = [
       color: "#A894C5",
     },
     {
-      text: "op de bus",
+      text: "op de trein of bus",
       color: "#A6B2D8",
     },
     {
@@ -143,7 +143,7 @@ let volwassenenWat = [
       color: "#A6B2D8",
     },
     {
-      text: "op een feestje",
+      text: "op of na een laat feestje",
       color: "#A894C5",
     },
     {
