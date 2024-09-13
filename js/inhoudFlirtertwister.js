@@ -33,7 +33,7 @@ let volwassenenWie = [
       color: "#9CCFB0",
     },
     {
-      text: "Een crush",
+      text: "Je crush",
       color: "#B5DFD1",
     },
     {
@@ -92,7 +92,7 @@ let volwassenenWat = [
       color: "#F4C7C4",
     },
     {
-      text: "Sluit een bericht af met xx",
+      text: "sluit een bericht af met xx",
       color: "#F3CDB0",
     },
     {
