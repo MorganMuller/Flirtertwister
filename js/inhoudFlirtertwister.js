@@ -72,7 +72,7 @@ let volwassenenWat = [
       color: "#F3CDB0",
     },
     {
-      text: "praat over hun kinks",
+      text: "praat over hun seksleven",
       color: "#F4C7C4",
     },
     {
