@@ -100,7 +100,7 @@ let volwassenenWat = [
       color: "#F4C7C4",
     },
     {
-      text: "complimenteert je outfit",
+      text: "complimenteert je kledij",
       color: "#F3CDB0",
     }
   ];
